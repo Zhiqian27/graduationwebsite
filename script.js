@@ -148,7 +148,7 @@ const graduates = {
 
         message: `
 
-Congrats on your graduation! 
+Congrats on your graduation! 🧑‍🎓
 
 May your journey ahead be filled with success and joy
 
@@ -159,11 +159,11 @@ May your journey ahead be filled with success and joy
 
     },
 
-    Valerie: {
+    valerie: {
 
         name: "Valerie",
 
-        music: "music/Valerie.mp3",
+        music: "music/valerie.mp3",
 
         message: `
 
@@ -177,11 +177,11 @@ May your graduation mark the start of an extraordinary life.
 
     },
 
-    Syahmi: {
+    syahmi: {
 
         name: "Syahmi",
 
-        music: "music/Syahmi.mp3",
+        music: "music/syahmi.mp3",
 
         message: `
 
