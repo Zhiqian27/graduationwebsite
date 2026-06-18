@@ -157,44 +157,12 @@ May your journey ahead be filled with success and joy
 
 `
 
-    },
-
-    valerie: {
-
-        name: "Valerie",
-
-        music: "music/valerie.mp3",
-
-        message: `
-
-Congrats! You've made it! 
-
-May your graduation mark the start of an extraordinary life.
 
 
 
-`
 
     },
 
-    syahmi: {
-
-        name: "Syahmi",
-
-        music: "music/syahmi.mp3",
-
-        message: `
-
-Cheers to your graduation! 
-
-May you chase every dream fearlessly. 
-
-I’ll always support you.
-
-
-`
-
-    },
 
     KaiJie: {
 
@@ -572,8 +540,42 @@ I’ll always support you.
 
 `
 
-    }
+    },
 
+    valerie: {
+
+        name: "Valerie",
+
+        music: "music/valerie.mp3",
+
+        message: `
+
+
+Congrats! You've made it! 
+
+May your graduation mark the start of an extraordinary life.
+
+`
+
+    },
+
+    syahmi: {
+
+        name: "Syahmi",
+
+        music: "music/syahmi.mp3",
+
+        message: `
+
+Cheers to your graduation! 
+
+May you chase every dream fearlessly. 
+
+I’ll always support you.
+
+`
+
+    }
 };
 
 // ==============================
