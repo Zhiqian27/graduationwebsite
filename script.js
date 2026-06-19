@@ -575,6 +575,22 @@ I’ll always support you.
 
 `
 
+    },
+
+    jinhan:{
+
+        name: "陈锦瀚",
+
+        music: "music/jinhan.mp3",
+
+        message: `
+
+愿你的未来充斥着欢声笑语，
+
+如若不然，愿你会有一个愿意为你撑伞的人。
+
+`
+
     }
 };
 
